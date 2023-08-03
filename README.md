@@ -1,2 +1,2 @@
-# Stone-Scissors-Paper
-API of the game "Stone-Scissors-Paper"
+# RockPaperScissors
+API of the game "Rock-Paper-Scissors"
