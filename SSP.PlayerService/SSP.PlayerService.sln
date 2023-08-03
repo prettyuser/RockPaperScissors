@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSP.PlayerService.Api", "SSP.PlayerService.Api\SSP.PlayerService.Api.csproj", "{8C970C3F-AC11-4C7E-81CA-63F3CCC0413E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSP.PlayerService.Infrastructure", "SSP.PlayerService.Infrastructure\SSP.PlayerService.Infrastructure.csproj", "{C511E8C2-C7B6-4232-AE8D-1E83623AFFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSP.PlayerService.Core", "SSP.PlayerService.Core\SSP.PlayerService.Core.csproj", "{AB7B37AF-82D5-4CC0-B315-61BBB1121518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSP.PlayerService.Application", "SSP.PlayerService.Application\SSP.PlayerService.Application.csproj", "{F7EB8B7A-966C-4607-BFFF-7E0CB159536C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSP.PlayerService.UnitTests", "SSP.PlayerService.UnitTests\SSP.PlayerService.UnitTests.csproj", "{FB392CE3-3BE7-482D-8E8D-458C6E51B619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSP.PlayerService.IntegrationTests", "SSP.PlayerService.IntegrationTests\SSP.PlayerService.IntegrationTests.csproj", "{0129D3BE-10AC-4BD6-B11D-8C2C90EC92B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C970C3F-AC11-4C7E-81CA-63F3CCC0413E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C970C3F-AC11-4C7E-81CA-63F3CCC0413E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C970C3F-AC11-4C7E-81CA-63F3CCC0413E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C970C3F-AC11-4C7E-81CA-63F3CCC0413E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C511E8C2-C7B6-4232-AE8D-1E83623AFFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C511E8C2-C7B6-4232-AE8D-1E83623AFFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C511E8C2-C7B6-4232-AE8D-1E83623AFFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C511E8C2-C7B6-4232-AE8D-1E83623AFFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7B37AF-82D5-4CC0-B315-61BBB1121518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7B37AF-82D5-4CC0-B315-61BBB1121518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7B37AF-82D5-4CC0-B315-61BBB1121518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7B37AF-82D5-4CC0-B315-61BBB1121518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7EB8B7A-966C-4607-BFFF-7E0CB159536C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EB8B7A-966C-4607-BFFF-7E0CB159536C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EB8B7A-966C-4607-BFFF-7E0CB159536C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EB8B7A-966C-4607-BFFF-7E0CB159536C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB392CE3-3BE7-482D-8E8D-458C6E51B619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB392CE3-3BE7-482D-8E8D-458C6E51B619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB392CE3-3BE7-482D-8E8D-458C6E51B619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB392CE3-3BE7-482D-8E8D-458C6E51B619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0129D3BE-10AC-4BD6-B11D-8C2C90EC92B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0129D3BE-10AC-4BD6-B11D-8C2C90EC92B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0129D3BE-10AC-4BD6-B11D-8C2C90EC92B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0129D3BE-10AC-4BD6-B11D-8C2C90EC92B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

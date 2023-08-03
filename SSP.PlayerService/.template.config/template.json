@@ -1,0 +1,11 @@
+{
+  "author": "Lexus Raccooknight",
+  "classifications": ["Microservices", "WebAPI", "Application", "Infrastructure", "Core"],
+  "identity": "SSP.MicroservicesTemplate",
+  "name": "SSP Microservices Template",
+  "shortName": "ssp-microservices-template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
